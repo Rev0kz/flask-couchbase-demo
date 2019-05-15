@@ -1,4 +1,4 @@
-## flask-couchbase-DiaryApp   
+## Flask-Couchbase-DiaryApp   
 
 This project shows how to build a flask-based application with a [Couchbase](https://www.couchbase.com/ server as the backend) 
 server as the backend.     
