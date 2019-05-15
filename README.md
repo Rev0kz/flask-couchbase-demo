@@ -13,7 +13,7 @@ Clone this repo in a virtualised environment. You can use the following commands
  
  `virtualenv projectname`    
  
- `git clone https://github.com/Rev0kz/flask-couchbase-demo`
+ `git clone https://github.com/Rev0kz/flask-couchbase-demo.git`
  
  Install the following packages to run the app locally
  
