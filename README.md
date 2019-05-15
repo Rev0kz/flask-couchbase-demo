@@ -22,6 +22,13 @@ Clone this repo in a virtualised environment. You can use the following commands
  `python app.py`   
  
  
+## How to Pull a Couchbase Server Image from DockerHub     
+
+You need to login before you can access images DockerHub
+
+ `docker pull couchbase/server` 
+ 
+ 
 ## How to Run a New Container for the Couchbase Server Image 
  
  `docker run -d --name db -p 8091-8094:8091-8094 -p 11210:11210 couchbase`
